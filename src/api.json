@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Ipad Pro",
+      "description": "A premium model of Apple's iPad tablet computer. It runs iPadOS, a tablet-optimized version of the iOS operating system.",
+      "price": 1200,
+      "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2023/04/M2-iPad-Pro-series-1.jpg",
+      "batteries": "yes",
+      "usedProduct": "No"
+    },
+    {
+      "id": 2,
+      "productName": "Mechanical Keyboard",
+      "description": "Mechanical switches come in three main varieties: linear, tactile, and clicky.",
+      "price": 300,
+      "imageUrl": "https://wallpapercave.com/wp/wp5077168.jpg",
+      "batteries": "No",
+      "usedProduct": "No"
+    },
+    {
+      "id": 3,
+      "productName": "4k Monitor",
+      "description": "A computer monitor with a screen resolution of 3,840 horizontal and 2,160 vertical pixels (2160p).",
+      "price": 1000,
+      "imageUrl": "https://i.pcmag.com/imagery/roundups/01Y9bqNdRmGOzHcetHQG2FW-34..v1654893889.jpg",
+      "batteries": "No",
+      "usedProduct": "No"
+    },
+    {
+      "productName": "Iphone",
+      "description": "calls people",
+      "price": 700,
+      "id": 4,
+      "batteries": "No",
+      "imageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2021/09/iphone-13-pro-header-9to5mac.jpg?quality=82&strip=all",
+      "usedProduct": "No"
+    },
+    {
+      "productName": "Macbook Pro",
+      "description": "A macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage.",
+      "price": 1300,
+      "batteries": "No",
+      "imageUrl": "https://i.pcmag.com/imagery/reviews/01LG7X66NKFgNRZSIDI1qsc-20..v1637766923.jpg",
+      "id": 5,
+      "usedProduct": "No"
+    },
+    {
+      "productName": "Lamborghini Revuelto",
+      "description": "The 2024 Lamborghini Revuelto Remixes the Supercar with a 1001-HP Hybrid V-12. The replacement for the Aventador features a fascinating plug-in-hybrid powertrain, striking bodywork, lots more tech, and—get this—a more practical interior.",
+      "price": 600000,
+      "imageUrl": "https://www.lambocars.com/wp-content/uploads/2022/05/2024-Lamborghini-LMHd-1.jpg",
+      "batteries": "No",
+      "id": 6,
+      "usedProduct": "No"
+    },
+    {
+      "productName": "Xbox One",
+      "description": "A home video game console developed by Microsoft. Announced in May 2013, it is the successor to Xbox 360 and the third console in the Xbox series.",
+      "price": "200",
+      "imageUrl": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/05-23.jpg?fit=1920%2C1080&ssl=1",
+      "batteries": "Yes",
+      "id": 7,
+      "usedProduct": "No"
+    },
+    {
+      "productName": "PlayStation 5",
+      "description": "The latest Sony PlayStation introduced in November 2020. Powered by an eight-core AMD Zen 2 CPU and custom AMD Radeon GPU, the PS5 is offered in two models: with and without a 4K Blu-ray drive. Supporting a 120Hz video refresh, the PS5 is considerably more powerful than the PS4 and PS4 Pro.",
+      "price": "500",
+      "imageUrl": "https://images4.alphacoders.com/111/thumb-1920-1113741.jpg",
+      "batteries": "Yes",
+      "id": 8,
+      "usedProduct": "No"
+    }
+  ]
+}
